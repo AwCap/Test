@@ -1,0 +1,14 @@
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\bin\Debug\net8.0\AppOne.exe
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\bin\Debug\net8.0\AppOne.deps.json
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\bin\Debug\net8.0\AppOne.runtimeconfig.json
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\bin\Debug\net8.0\AppOne.dll
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\bin\Debug\net8.0\AppOne.pdb
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\AppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\AppOne.AssemblyInfoInputs.cache
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\AppOne.AssemblyInfo.cs
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\AppOne.csproj.CoreCompileInputs.cache
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\AppOne.dll
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\refint\AppOne.dll
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\AppOne.pdb
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\AppOne.genruntimeconfig.cache
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppOne\AppOne\obj\Debug\net8.0\ref\AppOne.dll
